@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacky Cao</h1>
 <h3 align="center">A passionate AI/ML and ethical hacker from Norway</h3>
 
-- 🌱 I’m currently learning **SQL,**
+- 🌱 I’m currently learning **SQL and Bash**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **caojacky2003@gmail.com**
+
+- ⚡ Fun fact **Stop focusing on your hurt. Focus on your career to grow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
