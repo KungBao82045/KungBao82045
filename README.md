@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacky Cao</h1>
 <h3 align="center">A passionate AI/ML and ethical hacker from Norway</h3>
 
-- 🌱 I’m currently learning **SQL and Bash**
+- 🌱 I’m currently learning **MySQL and Bash**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
