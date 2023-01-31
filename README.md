@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **caojacky2003@gmail.com**
 
-- ⚡ Fun fact **Stop focusing on your hurt. Focus on your grow, like a tree**
+- ⚡ Fun fact **I live on earth 🌎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
