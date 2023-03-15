@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky Cao</h1>
-<h3 align="center">A passionate AI/ML and ethical hacker</h3>
+<h3 align="center">A passionate AI/ML</h3>
 
 - 🌱 I’m currently learning **Machine Learning in Python and React**
 
