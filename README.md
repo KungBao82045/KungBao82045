@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacky Cao</h1>
 <h3 align="center">A passionate AI/ML</h3>
 
-- 🌱 I’m currently learning **Machine Learning in Python and React**
+- 🌱 I’m currently learning **API and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
