@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **API and Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
+- 👨‍💻 Portfolio [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
 - 💬 Ask me about **Python or something**
 
