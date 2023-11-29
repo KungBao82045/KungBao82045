@@ -1,13 +1,13 @@
 <h1 align="center">Yo 👋, I'm Jacky Cao</h1>
 <h3 align="center">In Pentesting, I infiltrate. But in Robotics, I innovate.</h3>
 
-- 🌱 I’m currently learning **Robotics and Cybersersecurity**
+- 🌱 I’m currently learning **Robotics and Cybersersecurity**.
 
 - 👨‍💻 Portfolio [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
-- 💬 Ask me about **Python or something**
+- 💬 Ask me about **tech related**.
 
-- ⚡ Fun fact **Stop focusing on your hurt. Focus on your grow, like a tree**
+- ⚡ Fun fact **I live on earth**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
