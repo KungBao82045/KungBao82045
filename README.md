@@ -1,13 +1,11 @@
 <h1 align="center">Yo 👋, I'm Jacky Cao</h1>
-<h3 align="center">A passionate AI/ML and Cybersecurity</h3>
+<h3 align="center">In Pentesting, I infiltrate. But in Robotics, I innovate.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Robotics and Cybersersecurity**
 
 - 👨‍💻 Portfolio [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
 - 💬 Ask me about **Python or something**
-
-- 📫 How to reach me **caojacky2003@gmail.com**
 
 - ⚡ Fun fact **Stop focusing on your hurt. Focus on your grow, like a tree**
 
