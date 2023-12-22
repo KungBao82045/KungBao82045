@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm KungBao</h1>
-<h3 align="center">In Pentesting, I infiltrate. But in Robotics, I innovate.</h3>
+<h3 align="center">In Pentesting, I infiltrate. In Robotics, I innovate.</h3>
 
 - 🌱 I’m currently learning **Robotics and Cybersersecurity**.
 
