@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfolio [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
 
-- 💬 Ask me about **tech related**.
+- 💬 Ask me about **Tech Related**.
 
 - ⚡ Fun fact **I live on earth**.
 
