@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm KungBao</h1>
-<h3 align="center">In offensive security, I will think like an adveersary ⚔️</h3>
+<h3 align="center">In offensive security, I will think like an adversary ⚔️</h3>
 
 - 🌱 I’m currently learning, **Offensive security**
 
