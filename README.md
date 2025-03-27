@@ -1,13 +1,14 @@
 <h1 align="center">Yo 👋, I'm KungBao</h1>
 <h3 align="center">In offensive security, I will think like an adveersary ⚔️</h3>
 
-- 🌱 I’m currently learning **Offensive security**
+- 🌱 I’m currently learning, **Offensive security**
 
-- 👨‍💻 Portfolio [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio)
+- 👨‍💻 Portfolio, [CLOSED]
+- <!-- [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio) -->
 
-- 💬 Ask me about **Tech Related**.
+- 💬 Ask me about, **Tech Related**.
 
-- ⚡ Fun fact **I live on earth**.
+- ⚡ Fun fact, **I live on earth**.
 
 
 
