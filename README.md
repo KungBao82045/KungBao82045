@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning, **Offensive security**
 
 - 👨‍💻 Portfolio, [CLOSED]
-- <!-- [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio) -->
+<!-- [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio) -->
 
 - 💬 Ask me about, **Tech Related**.
 
