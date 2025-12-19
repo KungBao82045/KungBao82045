@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm KungBao</h1>
-<h3 align="center">In offensive security, I improve security by thinking like an adversary ⚔️</h3>
+<h3 align="center">I will improve security by thinking like an adversary ⚔️</h3>
 
-- 🌱 I’m currently learning, **Cybersecurity**
+- 🌱 I’m currently learning, **Cybersecurity - Penetration Testing**
 
 <!-- 👨‍💻 Portfolio, [CLOSED] -->
 <!-- [https://github.com/KungBao82045/portfolio](https://github.com/KungBao82045/portfolio) -->
